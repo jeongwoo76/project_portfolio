@@ -15,7 +15,7 @@
 
 
 <h1 align="center">👋 안녕하세요! 저는 "이정우"입니다.</h1>
-<p align="center">프론트엔드 · 백엔드 · 풀스택 개발자 | 사용자 경험 중심 개발 | 성장하는 개발자</p>
+<p align="center">프론트엔드 · 백엔드 · 풀스택 개발자 | 사용자 경험 중심 개발 | 소통하는 개발자</p>
 
 ---
 
@@ -164,8 +164,11 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: kinglee98@naver.com  
-- 🎥 youtube : [프로젝트 영상 보러가기](https://www.youtube.com/@%EC%9D%B4%EC%9E%AC%EB%AA%85-z1w)
+- 📧 Email: jeongwoo3701@naver.com
+
+- 🎥 youtube : [1차 프로젝트 영상 보러가기](https://youtu.be/fyXjxewcSSE)
+- 🎥 youtube : [2차 프로젝트 영상 보러가기](https://youtu.be/wXk6alDPh-4)
+- 🎥 youtube : [3차 프로젝트 영상 보러가기](https://youtu.be/i2rlSeZK0rM)
 
 ---
 
