@@ -145,21 +145,21 @@
 
 - 일기 공유, 개인 목표 설정
 - 공개범위 기능과 그룹 시스템
-- [프로젝트 보기](https://github.com/Lee-jaemyeong/TeamProject-yoonlee3)
+- [프로젝트 보기](https://github.com/jeongwoo76/TeamProject-yoonlee3)
 
 ### 📓 쓰담쓰담(SSDAMSSDAM)
 > 반려동물 SNS & 교환일기 기반 플랫폼
 
 - 일상 공유, 챌린지 기반 목표 설정
 - 팔로우 기능과 펫 친구 시스템
-- [프로젝트 보기](https://github.com/Lee-jaemyeong/TeamProject-SSDAM)
+- [프로젝트 보기](https://github.com/jeongwoo76/TeamProject-SSDAM)
 
 ### 🐶 트립포우(TripPaw)
 > 반려동물 동반 여행 경로 추천 & 예약 플랫폼
 
 - 맞춤 여행 경로 추천 + 일괄 예약 기능
 - 리뷰 활동에 따라 NFT 리워드 제공
-- [프로젝트 보기](https://github.com/Lee-jaemyeong/TeamProject-TripPaw)
+- [프로젝트 보기](https://github.com/jeongwoo76/TeamProject-TripPaw)
 
 ---
 
